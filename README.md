@@ -1,5 +1,5 @@
 # lab-cripto-automatizacion
-Automatización de Login, Registro, Restablecimiento y modificación de contraseña usando HTTP Requests
+Automatización de Login, Registro, Restablecimiento y modificación de contraseña usando HTTP Requests en Python.
 
 # Login
 Recibe un archivo txt con pares usuario:contraseña por cada linea.
